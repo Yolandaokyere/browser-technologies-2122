@@ -30,25 +30,6 @@ Voor de eindopdracht ontwerp en maak je een interactieve toepassing volgens het 
 
 [Rubric](https://icthva.sharepoint.com/:x:/s/FDMCI_EDU_CMD_Minor_Web_Design__Development/ET8k_fDG3VVPvqMkqx2uCusBR5-yeGaKo01meb9bDorLuQ?e=0hbmOk)
 
-## Planning & programma
-
-| Planning  | Woensdag  |  Donderdag | Vrijdag  |
-|---|---|---|---|
-| [Week 1](#week-1)  | Intro, College + briefing opdracht 1 | Presentaties opdracht 1, college +  briefing opdracht 2 | Presentaties opdracht 2 |
-| [Week 2](#week-2)  | College + Briefing De eindopdracht  | College + werken aan de opdracht | Feedbackgesprekken  |
-| [Week 3](#week-3)  | College + werken aan de opdracht  |  College + werken aan de opdracht | Beoordelingen!  |
-
-#### Opdracht 1
-Onderzoeken wat Progressive Enhancement is. 
-* 📖[Opdracht 1 - NPM install Progressive Enhancement](assignments/opdracht-1.md)
-* 📖[Briefing Opdracht 1 🛹 NPM install Progressive-Enhancement](assignments/opdracht-.md)
-* 📖[Everyone has JavaScript, right? by Stuart Langridge](https://kryogenix.org/code/browser/everyonehasjs.html)
-#### Opdracht 2
-Het web 'breken' door bewust features uit te zetten.
-* Zie wiki voor de resultaten: https://github.com/Yolandaokyere/browser-technologies-2122/wiki/Home-%7C-De-Opdracht
-* 📖[The unreasonable effectiveness of simple HTML by Terence Eden](https://shkspr.mobi/blog/2021/01/the-unreasonable-effectiveness-of-simple-html/)
-
-
 ### Week 2
 
 In week 2 beginnen we met de eindopdracht. We hebben in week 1 onderzocht wat PE is en welke feautures wel of niet goed worden ondersteund. Deze week gaan we leren hoe je een interactieve toepassing in 3 lagen kan ontwerpen en wat je kan doen als een browser een 'enhancement' niet kan tonen.
