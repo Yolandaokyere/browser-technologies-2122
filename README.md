@@ -1,14 +1,10 @@
-# Browser Technologies @cmda-minor-web 20-21
+# Browser Technologies
 
 _Robuuste, toegankelijke websites ontwerpen en maken …_
 
 Één van de mooiste [principes](https://www.w3.org/DesignIssues/Principles.html) van het web is dat iedereen met een computer en een browser het web kan gebruik. [Het web is voor iedereen](https://www.youtube.com/watch?v=UMNFehJIi0E). Het is geen gecontroleerde (programmeer) omgeving, je kan er gerust van uit gaan dat niemand precies hetzelfde te zien krijgt als wat jij in je browser ziet. Er zijn technische beperkingen, zoals afmetingen van de browser, grootte van het apparaat, manier van interactie, kwaliteit van de hardware, kwaliteit van het netwerk en er zijn mensen, allemaal verschillende mensen ...
 
 In het vak Browser Technologies gaan we onderzoeken wat Progressive Enhancement is en hoe je dit kan toepassen om goede, robuuste, toegankelijke websites te maken. Voor iedereen. Het web is voor iedereen, in dit vak leer je hoe je daarvoor kan zorgen.
-
-## Opdrachten
-
-het vak bestaat uit 3 opdrachten. In week 1 werken we aan opdracht 1 en 2. Vanaf week 2 werken we aan de eindopdracht.
 
 ### Opdracht 1 🛹 NPM install Progressive- enhancement
 
@@ -44,53 +40,16 @@ Voor de eindopdracht ontwerp en maak je een interactieve toepassing volgens het 
 | [Week 2](#week-2)  | College + Briefing De eindopdracht  | College + werken aan de opdracht | Feedbackgesprekken  |
 | [Week 3](#week-3)  | College + werken aan de opdracht  |  College + werken aan de opdracht | Beoordelingen!  |
 
-### Week 1
+#### Opdracht 1
+Onderzoeken wat Progressive Enhancement is. 
+📖[Opdracht 1 - NPM install Progressive Enhancement](assignments/opdracht-1.md)
+📖[Briefing Opdracht 1 🛹 NPM install Progressive-Enhancement](assignments/opdracht-.md)
+📖[Everyone has JavaScript, right? by Stuart Langridge](https://kryogenix.org/code/browser/everyonehasjs.html)
+#### Opdracht 2
+Het web 'breken' door bewust features uit te zetten.
+Zie wiki voor de resultaten: https://github.com/Yolandaokyere/browser-technologies-2122/wiki/Home-%7C-De-Opdracht
+📖[The unreasonable effectiveness of simple HTML by Terence Eden](https://shkspr.mobi/blog/2021/01/the-unreasonable-effectiveness-of-simple-html/)
 
-Het web is voor iedereen: Deze week gaan we onderzoeken wat Progressive Enhancement is en kennismaken met testen en het device lab.
-
-#### Woensdag 23 maart
-
-Browser Technolgies begint op woensdag. In het eerste college krijg je uitleg over het programma en over het nut van Progressive Enancement. Wat is dat eigenlijk? De meeste CMD studenten hebben dit waarschijnlijk al eens gehoord en misschien iets mee gedaan in blok Tech. Progressive Enhancement, oftewel PE, is een manier hoe je je de code van een website kan bouwen zodat alle gebruikers met alle browsers je website zo goed mogelijk te zien krijgen. Met PE kun je robuuste websites bouwen die het altijd doen. PE is een manier van denken.
-
-| Woensdag 23/3 | Wat  |
-|---|---|
-| 9:30 | College les 1 over het vak, wie, wat, waar en waarom |
-|  | [Briefing Opdracht 1 🛹 NPM install Progressive-Enhancement](assignments/opdracht-.md) |
-| 16:00 | Checkout in groepjes |
-
-##### Lezen voor les 1 📖
-
-- [Everyone has JavaScript, right? by Stuart Langridge](https://kryogenix.org/code/browser/everyonehasjs.html)
-
-
-#### Donderdag 24 maart
-
-Donderdag gaan we opdracht 1 bekijken en bespreken. Als het goed is heb je een beeld gevormd van Progressive Enhancement. Tijdens de bespreking kun je ook vragen te stellen, samen onderzoeken we wat PE is, waarom het goed is om te begrijpen en misschien kunnen we al wat voorbeelden bespreken hoe je het zou kunnen toepassen.
-
-In het college krijg je uitleg over opdracht 2. Voor deze opdracht ga je proberen het web te laten 'breken' door (browser) features bewust uit te zetten. Wat gebeurt er als images, custom fonts, JavaScript, kleur, breedband internet niet optimaal werken?
-
-🤟 Vandaag geeft [Aaron Gustafson](https://www.aaron-gustafson.com) om 17:00 een gast-college. hij schreef in 2008 het artikel [Understanding Progressive Enhancement](https://alistapart.com/article/understandingprogressiveenhancement/) waarna deze manier van denken een belangrijk onderdeel werd van Web Development. Aaron Gustafson werkt bij Microsoft als 'web standard advocate' met het Edge browser team.
-
-| Donderdag 24/3 | Wat  |
-|---|---|
-| 9:30 | Opdracht 1 bespreken 🛹 |
-| 10:30 | College les 2 over Browser features |
-|  | [Briefing Opdracht 2 💔 Breek het web](assignments/opdracht-2.md) |
-| 16:00 | Checkout per team |
-| 17:00 | Gastcollege Aaron Gustafson 🤟 |
-
-Lezen voor les 2 📖
-
-- [The unreasonable effectiveness of simple HTML by Terence Eden](https://shkspr.mobi/blog/2021/01/the-unreasonable-effectiveness-of-simple-html/)
-
-#### Vrijdag 25 maart
-
-Vrijdag bespreken we opdracht 2. Zorg dat je de bevindingen van je onderzoek online kan presenteren. We gaan de hele feature lijst doorlopen en alle studenten kunnen laten zien wat ze hebben onderzocht, met voorbeelden, de problemen, cijfers en/of meningen. Bedenk ook hoe je de problemen zou kunnen oplossen.
-
-| Vrijdag 25/3 | Wat  |
-|---|---|
-| 9:30 | [Opdracht 2 bespreken](assignments/BT2021-opdracht-2-8-features.pdf) |
-| 16:00 | Work Hard Play Hard |
 
 ### Week 2
 
