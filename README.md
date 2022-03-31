@@ -20,7 +20,7 @@ Het web 'breken' door bewust features uit te zetten.
 
 Voor de eindopdracht ontwerp en maak je een interactieve toepassing volgens het principe van Progressive Enhancement. Zorg dat alle gebruikers, met alle browsers, in iedere context de toepassing zo goed mogelijk te zien, horen en/of voelen krijgen. De meest 'enhanced' versie is 'delightful UX', mooi en prettig om te gebruiken.
 
-- [De eindopdracht - Progressive Enhanced Browser Technologie](assignments/eindopdracht.md)
+- https://github.com/cmda-minor-web/browser-technologies-2122/blob/main/assignments/eindopdracht.md
 
 
 ### Leerdoelen
