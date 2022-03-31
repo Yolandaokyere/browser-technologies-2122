@@ -6,17 +6,15 @@ _Robuuste, toegankelijke websites ontwerpen en maken …_
 
 In het vak Browser Technologies gaan we onderzoeken wat Progressive Enhancement is en hoe je dit kan toepassen om goede, robuuste, toegankelijke websites te maken. Voor iedereen. Het web is voor iedereen, in dit vak leer je hoe je daarvoor kan zorgen.
 
-### Opdracht 1 🛹 NPM install Progressive- enhancement
-
-Voor de eerste opdracht gaan we onderzoeken wat Progressive Enhancement is.
-
-- [Opdracht 1 - NPM install Progressive Enhancement](assignments/opdracht-1.md)
-
-### Opdracht 2 💔 Breek het Web
-
-Voor opdracht 2 ga je proberen het Web te laten 'breken' door (browser) features bewust uit te zetten. Wat gebeurt er als images, custom fonts, JavaScript, kleur, breedband internet niet optimaal werken?
-
-- [Opdracht 2 - Breek het Web](assignments/opdracht-2.md)
+#### Opdracht 1 | 🛹 NPM install Progressive- enhancement
+Onderzoeken wat Progressive Enhancement is. 
+* 📖[Opdracht 1 - NPM install Progressive Enhancement](assignments/opdracht-1.md)
+* 📖[Briefing Opdracht 1 🛹 NPM install Progressive-Enhancement](assignments/opdracht-.md)
+* 📖[Everyone has JavaScript, right? by Stuart Langridge](https://kryogenix.org/code/browser/everyonehasjs.html)
+#### Opdracht 2 | 💔 Breek het Web
+Het web 'breken' door bewust features uit te zetten.
+* Zie wiki voor de resultaten: https://github.com/Yolandaokyere/browser-technologies-2122/wiki/Home-%7C-De-Opdracht
+* 📖[The unreasonable effectiveness of simple HTML by Terence Eden](https://shkspr.mobi/blog/2021/01/the-unreasonable-effectiveness-of-simple-html/)
 
 ### Eindopdracht ✨ Progressive Enhanced Browser Technologie
 
@@ -42,13 +40,13 @@ Voor de eindopdracht ontwerp en maak je een interactieve toepassing volgens het 
 
 #### Opdracht 1
 Onderzoeken wat Progressive Enhancement is. 
-📖[Opdracht 1 - NPM install Progressive Enhancement](assignments/opdracht-1.md)
-📖[Briefing Opdracht 1 🛹 NPM install Progressive-Enhancement](assignments/opdracht-.md)
-📖[Everyone has JavaScript, right? by Stuart Langridge](https://kryogenix.org/code/browser/everyonehasjs.html)
+* 📖[Opdracht 1 - NPM install Progressive Enhancement](assignments/opdracht-1.md)
+* 📖[Briefing Opdracht 1 🛹 NPM install Progressive-Enhancement](assignments/opdracht-.md)
+* 📖[Everyone has JavaScript, right? by Stuart Langridge](https://kryogenix.org/code/browser/everyonehasjs.html)
 #### Opdracht 2
 Het web 'breken' door bewust features uit te zetten.
-Zie wiki voor de resultaten: https://github.com/Yolandaokyere/browser-technologies-2122/wiki/Home-%7C-De-Opdracht
-📖[The unreasonable effectiveness of simple HTML by Terence Eden](https://shkspr.mobi/blog/2021/01/the-unreasonable-effectiveness-of-simple-html/)
+* Zie wiki voor de resultaten: https://github.com/Yolandaokyere/browser-technologies-2122/wiki/Home-%7C-De-Opdracht
+* 📖[The unreasonable effectiveness of simple HTML by Terence Eden](https://shkspr.mobi/blog/2021/01/the-unreasonable-effectiveness-of-simple-html/)
 
 
 ### Week 2
