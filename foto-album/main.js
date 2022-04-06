@@ -6,6 +6,9 @@ import bodyParser from "body-parser";
 import fs from "fs";
 import multer from "multer";
 
+import { readdir } from 'fs/promises';
+// import nodeHtmlToImage from 'node-html-to-image'
+
 const app = express();
 const hbs = create();
 
@@ -46,7 +49,7 @@ var storage = multer.diskStorage({
 });
 
 var upload = multer({ storage: storage }).single("avatar");
-
+// post to album-page 
 app.post("/album", upload, (req, res, next) => {
   console.log(req.file);
 
@@ -56,6 +59,29 @@ app.post("/album", upload, (req, res, next) => {
   });
 });
 
+var test = '';
+
+try {
+    const files = await readdir('./public/uploads');
+    for (const file of files)
+      // console.log(files);
+       test = files;
+  } catch (err) {
+    console.error(err);
+  }
+  // console.log(files)
+
+  app.get("/grootAlbum", (req, res) => {
+      console.log(test)
+    readdir('./public/uploads')
+    .then((test)=>{
+        res.render("./grootAlbum", {
+            imagefiles: test
+        });
+    })
+  });
+ 
+  
 // const logEvents = require('./logEvents');
 app.set("port", process.env.PORT || 3500); // const PORT = process.env.PORT || 3500; // Server is running on PORT const = x. If 'x' is not available PORT= 3500
 
