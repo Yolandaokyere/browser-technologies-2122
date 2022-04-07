@@ -35,6 +35,10 @@ app.get("/album", (req, res) => {
   res.render("album"); // (for the album.handlebars)
 });
 
+app.get("/curves", (req, res) => {
+  res.render("curves"); // (for the about.handlebars)
+});
+
 // Gebruik body-parser om te lezen wat er in POST requests van de form staat (voor foto-album)
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
