@@ -22,7 +22,7 @@ app.use(express.static("public")); // In public map zitten alle mappen die gebru
 
 // Route luistert naar alle GET request op /
 app.get("/", (req, res) => {
-  res.render("home"); // (for the home.handlebars)
+  res.render("home"); // (for the home.handlebars).
 });
 
 // Route luistert naar alle GET request op /
