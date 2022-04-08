@@ -1,68 +1,33 @@
 # Browser Technologies
-
-_Robuuste, toegankelijke websites ontwerpen en maken …_
-
-Één van de mooiste [principes](https://www.w3.org/DesignIssues/Principles.html) van het web is dat iedereen met een computer en een browser het web kan gebruik. [Het web is voor iedereen](https://www.youtube.com/watch?v=UMNFehJIi0E). Het is geen gecontroleerde (programmeer) omgeving, je kan er gerust van uit gaan dat niemand precies hetzelfde te zien krijgt als wat jij in je browser ziet. Er zijn technische beperkingen, zoals afmetingen van de browser, grootte van het apparaat, manier van interactie, kwaliteit van de hardware, kwaliteit van het netwerk en er zijn mensen, allemaal verschillende mensen ...
-
-In het vak Browser Technologies gaan we onderzoeken wat Progressive Enhancement is en hoe je dit kan toepassen om goede, robuuste, toegankelijke websites te maken. Voor iedereen. Het web is voor iedereen, in dit vak leer je hoe je daarvoor kan zorgen.
+* Toegangelijke web voor iedereen. 
+* Voor dit vak is kort onderzocht hoe de web applicatie functioneert bij verschillende soorten browsers: Yandex, Avast en Opera. 
+![2022-04-08](https://user-images.githubusercontent.com/97689634/162386023-01edc842-ce3b-4e01-90c0-ea1e92572267.png)
 
 #### Opdracht 1 | 🛹 NPM install Progressive- enhancement
 Onderzoeken wat Progressive Enhancement is. 
+* **Resultaat**: [Zip-file Opdracht 1](https://github.com/Yolandaokyere/browser-technologies-2122/commit/c3f391d5083606938456f9d85590595f3867803d)
 * 📖[Opdracht 1 - NPM install Progressive Enhancement](assignments/opdracht-1.md)
 * 📖[Briefing Opdracht 1 🛹 NPM install Progressive-Enhancement](assignments/opdracht-.md)
 * 📖[Everyone has JavaScript, right? by Stuart Langridge](https://kryogenix.org/code/browser/everyonehasjs.html)
 #### Opdracht 2 | 💔 Breek het Web
 Het web 'breken' door bewust features uit te zetten.
-* Zie wiki voor de resultaten: https://github.com/Yolandaokyere/browser-technologies-2122/wiki/Home-%7C-De-Opdracht
+* **Resultaat**: [Opdracht 2](https://github.com/Yolandaokyere/browser-technologies-2122/wiki/Home-%7C-De-Opdracht)
 * 📖[The unreasonable effectiveness of simple HTML by Terence Eden](https://shkspr.mobi/blog/2021/01/the-unreasonable-effectiveness-of-simple-html/)
-
 ### Eindopdracht ✨ Progressive Enhanced Browser Technologie
+Process in details [click here!](https://github.com/Yolandaokyere/browser-technologies-2122/wiki/Eindopdracht--%7C--User-story-bouwen-(week-2.2-))
 
-Voor de eindopdracht ontwerp en maak je een interactieve toepassing volgens het principe van Progressive Enhancement. Zorg dat alle gebruikers, met alle browsers, in iedere context de toepassing zo goed mogelijk te zien, horen en/of voelen krijgen. De meest 'enhanced' versie is 'delightful UX', mooi en prettig om te gebruiken.
+## 📝 Wishlist
+- [x] **Serverside rendering**
+- [x] Convert the server to a progressive web app
+- [ ] Activity Diagram
+- [ ] Wireflow Diagram
+- [ ] Alle leerdoelen
+- [ ] Good styling page
+- [ ] License
 
-- https://github.com/cmda-minor-web/browser-technologies-2122/blob/main/assignments/eindopdracht.md
+### Behaalde Leerdoelen
+- [x] je leert wat Progressive enhancement is en hoe je dit kan toepassen._
+- [ ] je leert Browser Technologies te onderzoeken, testen en implementeren als enhancement._
+- [ ] je leert hoe je Feature Detection doet en wat je kan doen als een 'feature' niet werkt of wordt ondersteund._
 
 
-### Leerdoelen
-- _je leert wat Progressive enhancement is en hoe je dit kan toepassen._
-- _je leert Browser Technologies te onderzoeken, testen en implementeren als enhancement._
-- _je leert hoe je Feature Detection doet en wat je kan doen als een 'feature' niet werkt of wordt ondersteund._
-
-[Rubric](https://icthva.sharepoint.com/:x:/s/FDMCI_EDU_CMD_Minor_Web_Design__Development/ET8k_fDG3VVPvqMkqx2uCusBR5-yeGaKo01meb9bDorLuQ?e=0hbmOk)
-
-### Week 2
-
-In week 2 beginnen we met de eindopdracht. We hebben in week 1 onderzocht wat PE is en welke feautures wel of niet goed worden ondersteund. Deze week gaan we leren hoe je een interactieve toepassing in 3 lagen kan ontwerpen en wat je kan doen als een browser een 'enhancement' niet kan tonen.
-
-#### Woensdag 29 maart
-
-Woensdag krijg je een briefing van de eindopdracht en een college over browsers, en alles (!) wat daarbij hoort. Daarna gaan we aan de slag: als je een interactieve toepassing ontwerpt die alle gebruikers, met alle browsers moeten kunnen zien, dan zul je moeten bedenken hoe je de toepassing in 3 lagen kan opbouwen, eerst bepaal je de core functionaliteit en de user-delight ... schetsen maar!
-
-| Woensdag 29/3 | Wat  |
-|---|---|
-| 9:30 | Gastcollege van [Vitaly Friedman](https://www.smashingmagazine.com/author/vitaly-friedman/) over interfaces! |
-|  | [Briefing eindopdracht ✨ Progressive Enhanced Browser Technologie](assignments/eindopdracht.md) |
-| 11:00 | [College over browsers en support detection]() |
-| 16:00 | Checkouts |
-
-#### Donderdag 30 maart
-
-Donderdag gaan we voorbeelden van PE en feature detection bespreken in een college over form validatie. Daarna aan de slag met je ontwerp, in clubjes gaan we je ontwerpideeën bespreken en bedenken hoe je dit in 3 lagen zou kunnen bouwen.  
-
-| Donderdag 30/3 | Wat  |
-|---|---|
-| 9:30 | College les 4 over Viewports |
-| 16:00 | Checkouts |
-
-Lezen voor les 4 📖
-
-- [Be progressive by Jeremy Keith](https://adactio.com/journal/7706)
-
-#### Vrijdag 31 maart
-
-Vrijdag bespreken we in groepjes de vorderingen voor de eindopdracht. Zorg dat je vandaag weet welke browsers (en devices) jij gaat testen.
-
-| Vrijdag 31/3 | Wat  |
-|---|---|
-| 9:30 | Vorderingen bespreken & feedback in groepjes |
-| 16:00 | Work Hard Play Hard |
